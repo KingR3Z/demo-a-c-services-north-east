@@ -21,8 +21,10 @@ export const client = {
     link: "https://wa.me/441914281200",
   },
   address: [
+    "40 Glen St",
     "Hebburn",
     "Tyne and Wear",
+    "NE31 1NU",
   ],
   region: "Hebburn, South Tyneside and the North East",
   basedIn: "Hebburn",
